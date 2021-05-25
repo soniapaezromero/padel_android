@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Padel_android</string>
+    <string name="hora_final">Hora final:</string>
+    <string name="hora_comienzo">Hora Comienzo</string>
+</resources>
